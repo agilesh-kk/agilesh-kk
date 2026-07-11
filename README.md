@@ -44,7 +44,7 @@ Building scalable cross-platform applications with Flutter and Dart.
 
 <p align="center">
 
-REST API • Clean Architecture • BLoC Pattern
+
 
 </p>
 
@@ -56,7 +56,7 @@ REST API • Clean Architecture • BLoC Pattern
 
 <p align="center">
 
-Supabase
+
 
 </p>
 
