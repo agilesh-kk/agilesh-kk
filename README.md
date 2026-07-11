@@ -11,20 +11,33 @@ Building scalable cross-platform applications with Flutter and Dart.
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1zSiufmYrPdugn_xJ3ooNk09KUPi_n1fz/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄_Resume-View_Resume-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-7F5AF0?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=blur&height=170&color=gradient&text=Flutter%20Developer&fontColor=ffffff&animation=fadeIn&fontSize=42"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Final Year **B.E. Computer Science Engineering**
-- 🏫 Velammal College of Engineering and Technology
-- 📱 Passionate about developing **cross-platform applications**
-- 🤖 Exploring **Artificial Intelligence** and modern AI tools
-- 💡 Interested in writing clean, scalable and maintainable software
-- 🚀 Continuously improving through real-world projects and problem solving
+<div align="center">
+
+🎓 **Final Year B.E. Computer Science Engineering**
+
+🏫 **Velammal College of Engineering and Technology**
+
+📱 Passionate about developing **cross-platform applications**
+
+🤖 Exploring **Artificial Intelligence** and modern AI tools
+
+💡 Interested in building **clean, scalable and maintainable software**
+
+🚀 Constantly learning through projects and problem solving
+
+</div>
 
 ---
 
@@ -33,55 +46,78 @@ Building scalable cross-platform applications with Flutter and Dart.
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,mysql&theme=dark"/>
 </p>
+
+---
 
 ### Frameworks & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,nodejs,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,firebase,supabase&theme=dark"/>
 </p>
 
 <p align="center">
 
-REST API • Clean Architecture • BLoC Pattern
+<img src="https://img.shields.io/badge/REST_API-Glass-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-Glass-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BLoC-Pattern-4F46E5?style=for-the-badge"/>
 
 </p>
+
+---
 
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=firebase,mysql,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=firebase,mysql,postgresql,sqlite&theme=dark"/>
 </p>
 
 <p align="center">
 
-Supabase
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
 </p>
+
+---
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark"/>
 </p>
 
 ---
 
 # 🧠 Current Focus
 
-- 📱 Advanced Flutter Development
-- 🏗️ System Design
-- 🧩 Data Structures & Algorithms
-- 🔥 Firebase Ecosystem
-- 🧱 Clean Architecture
-- 🤖 AI / Machine Learning
+<div align="center">
+
+✨ Advanced Flutter Development
+
+🏗️ System Design
+
+🧩 Data Structures & Algorithms
+
+🔥 Firebase Ecosystem
+
+🏛️ Clean Architecture
+
+🤖 AI / Machine Learning
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 💬 Memento
+<table>
+<tr>
+<td width="50%">
+
+### 💬 Memento
 
 Cross-platform Chat Application for Android & Web
 
@@ -89,17 +125,15 @@ Cross-platform Chat Application for Android & Web
 
 Flutter • Dart • Firebase • Supabase
 
-🔗 GitHub
+[🔗 GitHub Repository](https://github.com/agilesh-kk/chat_application)
 
-https://github.com/agilesh-kk/chat_application
+[🎥 Live Demo](https://drive.google.com/file/d/1pIgms8Zv1kz6NTvxT0flZ9DrDYEXZQ1N/view?usp=sharing)
 
-🎥 Demo
+</td>
 
-https://drive.google.com/file/d/1pIgms8Zv1kz6NTvxT0flZ9DrDYEXZQ1N/view?usp=sharing
+<td width="50%">
 
----
-
-## 📝 Blog App
+### 📝 Blog App
 
 Cross-platform Blog Application for Android & Web
 
@@ -107,21 +141,32 @@ Cross-platform Blog Application for Android & Web
 
 Flutter • Dart
 
-🔗 GitHub
+[🔗 GitHub Repository](https://github.com/agilesh-kk/blog_application)
 
-https://github.com/agilesh-kk/blog_application
+[🎥 Live Demo](https://drive.google.com/file/d/1qxlQ_UjfxoTGt075KcVGx3ZKy8-xuOZ2/view?usp=sharing)
 
-🎥 Demo
+</td>
 
-https://drive.google.com/file/d/1qxlQ_UjfxoTGt075KcVGx3ZKy8-xuOZ2/view?usp=sharing
+</tr>
+</table>
 
 ---
 
 # 🌑 LeetCode
 
 <p align="center">
+<img src="https://leetcard.jacoblin.cool/agileshkumaran?theme=dark&font=baloo&ext=heatmap"/>
+</p>
 
-<img src="https://leetcard.jacoblin.cool/agileshkumaran?theme=dark&ext=heatmap" />
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=agilesh-kk&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agilesh-kk&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -131,7 +176,7 @@ https://drive.google.com/file/d/1qxlQ_UjfxoTGt075KcVGx3ZKy8-xuOZ2/view?usp=shari
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=agilesh-kk&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=agilesh-kk&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -141,7 +186,7 @@ https://drive.google.com/file/d/1qxlQ_UjfxoTGt075KcVGx3ZKy8-xuOZ2/view?usp=shari
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agilesh-kk&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agilesh-kk&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -152,15 +197,15 @@ https://drive.google.com/file/d/1qxlQ_UjfxoTGt075KcVGx3ZKy8-xuOZ2/view?usp=shari
 <p align="center">
 
 <a href="mailto:agileshkumaran@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/agilesh-k-k-4226882a2/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/agilesh-kk">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/agileshkumaran/">
@@ -177,15 +222,15 @@ https://drive.google.com/file/d/1qxlQ_UjfxoTGt075KcVGx3ZKy8-xuOZ2/view?usp=shari
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=agilesh-kk&label=Profile%20Views&color=0e75b6&style=flat)
+<img src="https://komarev.com/ghpvc/?username=agilesh-kk&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
 
 </p>
 
 ---
 
-<h3 align="center">
+<h2 align="center">
 
-Build. Break. Improve.
+✨ Build. Break. Improve. ✨
 
-</h3>
+</h2>
 
