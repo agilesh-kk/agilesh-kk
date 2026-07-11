@@ -169,18 +169,6 @@ https://drive.google.com/file/d/1qxlQ_UjfxoTGt075KcVGx3ZKy8-xuOZ2/view?usp=shari
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/agilesh-kk/agilesh-kk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** The contribution snake requires a GitHub Actions workflow in your profile repository to generate the SVG automatically.
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
